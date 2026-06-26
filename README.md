@@ -1,6 +1,5 @@
 #Prog1 :- SS 
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/feeff64e-bd30-473e-a320-8afb7e578cce" />
-
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/7d68a9f4-2e74-4f0f-bd9b-7804276ba629" />
 
 #Prog2 :- SS 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/755cddc2-4cd7-4f94-8eff-ab4f1580cf4d" />
